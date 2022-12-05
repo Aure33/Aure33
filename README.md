@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Densetsuuu/Densetsuuu/master/img/header.png" alt="Header of readme">
 
 
 ## 👤 About me
